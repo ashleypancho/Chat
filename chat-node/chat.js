@@ -20,9 +20,5 @@ process.stdin.once('data', function(input){
         process.stdout.write(">")
       }
     })
-
   })
-
-
-
 })
